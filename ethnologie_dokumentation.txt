@@ -1,0 +1,28 @@
+Landesmuseum Hannover
+Ethnologie
+
+
+
+METS/MODS
+---------
+Die URLs zu den Bilddateien befinden sich gemäß der METS Spezifikation in den Unterelementen des Elements <mets:fileSec> und können über folgenden XPath selektiert werden:
+* /mets:mets/mets:fileSec/mets:fileGrp[@USE='DEFAULT']/mets:file/mets:FLocat/@xlink:href
+Jeder Datensatz besitzt mindestens eine URL zu einer Bilddatei und kann beliebig viele weitere URLs enthalten.
+Die referenzierten Bilddateien sind JPGs in der maximalen Auflösung. Die URL der Bilddatei verweist auf den IIIF Image Webservice des Portals und kann entsprechend der Spezifikation der IIIF Image API manipuliert werden.
+Weiteren Informationen dazu unter: https://iiif.io/api/image/2.1/
+
+
+
+Vokabulare
+---------
+Material-Thesaurus der VZG
+Technik-Thesaurus der VZG
+Iconclass
+GND
+
+
+
+Georeferenzen
+---------
+geonames
+Geographische Namen (GN250)
