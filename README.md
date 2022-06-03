@@ -1,5 +1,5 @@
-# 03_scraping-images
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ikyriazi/03_scraping-images/master)
+# 03_scraping-images-JSON-Pandas
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ikyriazi/03_scraping-images-JSON-Pandas/HEAD)
 
 ### 01_read_allFiles_METS.ipynb
 
